@@ -1,4 +1,3 @@
-# DL_TF_Identify_Digits
-Deep learning, Tensorflow, Identify digit from MNIST with more than 99% accuracy 
+# Deep Learning | Digit classifier using Tensorflow
+Deep learning, MNIST  digit classifier with more than 99% accuracy, using call back once reached that accuracy
 
-hello
