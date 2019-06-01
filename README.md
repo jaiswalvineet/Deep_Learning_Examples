@@ -1,18 +1,7 @@
 
-# Deep Learning | Digit classifier using TensorFlow
+# Deep Learning Examples
 
-Deep learning,  MNIST  digit classifier with more than 99% accuracy, using call back once reached that accuracy
-
-#### Load the libraries
-
-
-```python
-import tensorflow as tf
-```
-
-#### Load the data 
-
-
-```python
-
-```
+1. MNIST digit classifier with more than 99% accuracy, 
+ * Keras
+ * TensorFlow 
+ 
